@@ -122,7 +122,10 @@ img{
 ```
 ## Output:
 
-![image](https://github.com/23003522/cover-page-design/assets/138849213/37e99ba4-2701-495a-92a0-d3d5d755ef93)
+
+![Screenshot 2023-08-08 123440](https://github.com/23003522/cover-page-design/assets/138849213/49c7954f-702f-4d51-b006-b20573cbd079)
+
+
 
 ## Result:
 Thus the experiment was executed successfully.
