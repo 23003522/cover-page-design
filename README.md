@@ -122,7 +122,7 @@ img{
 ```
 ## Output:
 
-![OUTPUT][./output.png]
+![OUTPUT](./output.png)
 
 
 
