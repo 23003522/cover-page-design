@@ -121,7 +121,6 @@ img{
 }
 ```
 ## Output:
-
 ![OUTPUT](./output.png)
 
 
