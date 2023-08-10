@@ -16,6 +16,7 @@ Step 4:
 Publish the website in the given URL.
 
 PROGRAM :
+
 ```
 <!DOCTYPE html>
 {% load static %}
