@@ -1,8 +1,11 @@
 Book CoverPage Design
+
 AIM:
+
 To design a static web site for a book cover page.
 
 DESIGN STEPS:
+
 Step 1:
 Clone the github repository and create a django admin interface
 
